@@ -1,0 +1,5 @@
+#:C:\Development Projects\Objectwerx\SerivceWerX-master\src\ServiceWerXBusiness\ServiceWerXBusiness.xproj
+C:\Development Projects\Objectwerx\SerivceWerX-master\src\ServiceWerXBusiness\ServiceWerXBusiness.xproj|C:\Development Projects\Objectwerx\SerivceWerX-master\src\ServiceWerX.Utilities\ServiceWerX.Utilities.xproj
+#:C:\Development Projects\Objectwerx\SerivceWerX-master\src\ServiceWerXASPNetCore\ServiceWerXASPNetCore.xproj
+C:\Development Projects\Objectwerx\SerivceWerX-master\src\ServiceWerXASPNetCore\ServiceWerXASPNetCore.xproj|C:\Development Projects\Objectwerx\SerivceWerX-master\src\ServiceWerXBusiness\ServiceWerXBusiness.xproj
+C:\Development Projects\Objectwerx\SerivceWerX-master\src\ServiceWerXBusiness\ServiceWerXBusiness.xproj|C:\Development Projects\Objectwerx\SerivceWerX-master\src\ServiceWerX.Utilities\ServiceWerX.Utilities.xproj
