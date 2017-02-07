@@ -1,4 +1,4 @@
-﻿# ServiceWer Demo ASP.NET Core Sample
+﻿# ServiceWerX Demo ASP.NET Core Sample
 
 **Sample Angular 2.0 application demonstrating ASP.NET Core API features**
 
